@@ -4,3 +4,4 @@ users:
     groups:
       - "sudo"
       - "docker"
+hostname: "core-ikdoeict"
