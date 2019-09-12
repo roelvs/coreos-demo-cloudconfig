@@ -1,0 +1,6 @@
+users:
+  - name: "ikdoeict"
+    passwd: "$6$df08226404df4822$imNagKUpjtxBaCF6dZlsHP437agX8IuMO96yBRcOzKjzwJ6sxoZkGSa1YlOAyoy.FZgmVWmH/zjnVr6dhLVQs." #Azerty123
+    groups:
+      - "sudo"
+      - "docker"
